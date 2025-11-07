@@ -1,7 +1,5 @@
 # Algorithms: Princeton  - Exercises
 
-## Course Information
-
 **Course**: Computer Science: Algorithms, Part I  
 **Institution**: Princeton University (Coursera)  
 **Instructor**: Robert Sedgewick & Kevin Wayne  
